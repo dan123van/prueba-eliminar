@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.contenedor1 {
+    width: 300px;
+    height: 200px;
+    padding: 25px;
+    border: 2px solid black;
+}
+
+.contenedor2 {
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    border: 2px solid black;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.texto1 {
+    width: 10px;
+}
